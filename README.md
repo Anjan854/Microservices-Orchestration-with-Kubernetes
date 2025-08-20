@@ -155,7 +155,7 @@ Also, clean up the S3 bucket, Route 53 records, and any created volumes (EBS) ma
 
 Md Ashraf Mahmud Anjan 
 DevOps Enthusiast | Kubernetes Practitioner
-GitHub: [@yourhandle](https://github.com/Anjan854)
+GitHub: [GitHub](https://github.com/Anjan854)
 
 ---
 
