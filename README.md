@@ -114,7 +114,7 @@ kubectl apply -f workloads.yaml
 kubectl apply -f services.yaml
 ```
 
-Go to the cloud-setup folder to get the files.
+Go to the cloud-setup folder to get files.
 
 ## 5. Verify the Workloads
 
@@ -153,8 +153,8 @@ Also, clean up the S3 bucket, Route 53 records, and any created volumes (EBS) ma
 
 ## 📌 Author
 
-Md Ashraf Mahmud Anjan 
-DevOps Enthusiast | Kubernetes Practitioner
+Md Ashraf Mahmud Anjan  
+DevOps Enthusiast | Kubernetes Practitioner  
 GitHub: [GitHub](https://github.com/Anjan854)
 
 ---
